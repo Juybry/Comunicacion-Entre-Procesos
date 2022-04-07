@@ -17,12 +17,4 @@ La App-Oyente es una aplicación express que cumple el rol de un oyente, esperan
 #### Inizializar el proyecto
 Para instalar dependencias, correr el comando
 
-##### App-Lector
-###### npm i express readline2
-
-##### App-Oyente
-###### npm i express fetch fs --save
-
-Ó simplemente correr en ambos proyectos el comano
-
 ###### npm i
